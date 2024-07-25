@@ -1,4 +1,15 @@
-## Hi there 👋
+#### 👋🏾 Hi there, I'm Kelvin Kariuki
+
+## About Me
+#### Experienced Software Engineer with over 5 years in the industry, specialising in front-end development. Proven track record for building and maintaining scalable web applications while delivering high-quality, user-centric solutions. Adept at collaborating with cross-functional teams, passionate about solving complex problems and continually learning new skills and technologies.
+
+## Technical Skills
+- Langauges: Javascript, Typescript, Python, Golang
+- Frameworks/Libraries: React, React Native, NodeJS, NextJS
+- Databases: Postgres, MongoDB
+- Testing Frameworks: React Testing Library, Jest, Cypress, PlayWright
+- Tools: Github
+
 
 <!--
 **dotNesh/dotNesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
