@@ -5,7 +5,7 @@
 
 ## Technical Skills 🛠️
 - Langauges: Javascript, Typescript, Python, Golang
-- Frameworks/Libraries: React, React Native, NodeJS, NextJS
+- Frameworks/Libraries: React, React Native, NodeJS, NextJS, Tailwind
 - Databases: Postgres, MongoDB
 - Testing Frameworks: React Testing Library, Jest, Cypress, PlayWright
 - Tools: Github
